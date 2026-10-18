@@ -7,6 +7,9 @@ Built for learning network metadata and Python.
 
 - [Chapter 1 — Introduction](chapters/01-introduction.md)
 - [Chapter 2 — How IP tracking works](02-how-ip-tracking-works.md)
+- [Chapter 3 — Building the tool](chapters/03-building-the-tool.md)
+- [Chapter 4 — Using the tool](chapters/04-using-the-tool.md)
+- [Chapter 5 — Ethics and legal](chapters/05-ethics-and-legal.md)
 
 ## 🛠️ The Tool
 
